@@ -82,5 +82,5 @@
    ## 5.1 Requerimientos de rendimiento
     El sistema debe dar respuesta a las consultas en menos de 5 segundos. En especial en el día de inscripciones.
    ## 5.2 Requerimientos de seguridad
-   ### 5.2.1 El sistema debe ser resistente a ataques, por ejemplo, D-DOS. Así, maximizar la disponibilidad del sistema.
-   ### 5.2.2 El sistema debe cuidar la confidencialidad de los usuarios y la integridad de los datos
+         - El sistema debe ser resistente a ataques, por ejemplo, D-DOS. Así, maximizar la disponibilidad del sistema.
+         - El sistema debe cuidar la confidencialidad de los usuarios y la integridad de los datos
