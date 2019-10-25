@@ -131,7 +131,10 @@
 
       # 5. Requerimientos no funcionales
       ## 5.1 Requerimientos de rendimiento
-      El sistema debe dar respuesta a las consultas en menos de 5 segundos. En especial en el día de inscripciones.
+      El sistema debe garantizar el dar respuesta a las consultas en menos de 5 segundos. En especial en el día de inscripciones.
       ## 5.2 Requerimientos de seguridad
-      - El sistema debe ser resistente a ataques, por ejemplo, D-DOS. Así, maximizar la disponibilidad del sistema.
-      - El sistema debe cuidar la confidencialidad de los usuarios y la integridad de los datos
+      - El sistema debe ser resistente a ataques, por ejemplo, D-DOS. Para así garantizar fiabilidad y rendimiento al usuario.
+      - El sistema debe cuidar la confidencialidad de los usuarios y la integridad de los datos, esto se puede hacer mediante la encriptación de los datos enviados y recibidos por el sistema.
+      ## 5.3 Requerimientos de fiabilidad
+      - El sistema debe garantizar tener pocos incidentes de alta prioridad, por ejemplo, teniendo un sistema alterno que sirve como DR (Disaster Recovery) en caso de algún problema
+      - El sistema debe garantizar ser resistente a un fuerte uso del sistema, por ejemplo, en día de inscripciones.
