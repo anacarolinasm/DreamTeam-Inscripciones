@@ -10,17 +10,20 @@
 
 # Tabla de contenidos
 1. **Introducción**  
-   1.  Propósito Convención
+   1.  Propósito Convención:
    El propósito de este documento es proporcionar una descripción detallada de los requisitos para el sistema de inscripciones del ITAM. Ilustrará el propósito y la declaración completa para el
 desarrollo del sistema. También explicará las limitaciones del sistema y su interfaz. 
    2.  Audiencia: 
    La audiencia para este proyecto es el staff administrativo del ITAM para que puedan dar de alta grupos nuevos, y para los alumnos para que puedan modificar su plan de estudios. 
    3.  Alcance del producto:
-   El sistema de inscripciones del ITAM es un software especializado para que alumnos y staff administrativo del ITAM puedan modificar la tira de materias de los alumnos. 
-Los alumnos podrán consultar las materias disponibles para su respectivo semestre, podrán seleccionar y dar de alta materias, dar de baja materias desde su tira de materias, podrán ingresar a listas de espera en caso de ser necesario. 
-El personal administrativo podrá crear los grupos disponibles para el semestre y podrán revisar y administrar las listas de espera. 
+  El sistema de inscripciones del ITAM es un software especializado para que alumnos y staff administrativo del ITAM puedan modificar la tira de materias de los alumnos. 
+Los alumnos podrán consultar las materias disponibles para su respectivo semestre, podrán seleccionar y dar de alta materias, dar de baja materias desde su tira de materias, podrán ingresar a listas de espera en caso de ser necesario. Con esta información, el alumno podrá diseñar y planificar qué materias cursar en el semestre y obtener su tira de materias.  
+El personal administrativo podrá crear los grupos disponibles para el semestre y podrán revisar y administrar las listas de espera, de tal manera, resolviendo los conflictos de los alumnos.  
+Sobre todo, esperamos proporcionar una experiencia de usuario cómoda e intuitiva para que los usuarios puedan administrar sus materias de manera rápida y fácil. 
 
-   4.  Referencias
+   4.  Referencias:
+   -  Clase de Ingeniería de Software - Ing. Paulina Bustos Arellano, 2019.
+   -  Software Requirements Specification Template - Karl E. Wiegers, 2019.
 2. **Drescripción**  
    1. Perspectiva del producto
    2. Funciones del producto
