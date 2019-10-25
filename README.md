@@ -2,12 +2,12 @@
 ## For Inscripciones ITAM
 
 #### Prepared by: 
-+ Cecilia vásquez
-+ Diego Villalvazo 
++ Cecilia Vásquez Perez- 150482 
++ Diego Villalvazo Sulzer - 155844 
 + Ana Carolina Sandoval Mejía - 152808
++ Stephanie
 #### DreamTeam
 24 de octubre de 2019
-
 # Tabla de contenidos
 1. **Introducción**  
    1.  Propósito Convención.
@@ -84,4 +84,3 @@
    ## 5.2 Requerimientos de seguridad
    ### 5.2.1 El sistema debe ser resistente a ataques, por ejemplo, D-DOS. Así, maximizar la disponibilidad del sistema.
    ### 5.2.2 El sistema debe cuidar la confidencialidad de los usuarios y la integridad de los datos
-
